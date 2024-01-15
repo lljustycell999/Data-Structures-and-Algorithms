@@ -18,3 +18,7 @@ Program 1: Loader
 
 Program 2: Application
 * Extend Assignment 1 to display a category (cluster) and most similar key from the above data structures.
+
+# Assignment 3 Specification:
+* Extend Assignments 1 and/or 2 to record links from each site to its neighbors, for at least 1000 total sites. (Ignore Wikipedia navigation links.) Store the edges along with their similarity metrics persistently (possibly just in a Serialized file).
+* Write a program (either GUI or web-based) that recreates the graph from step 1, and reports the number of disjoint sets as a connectivity check. Allow a user to select any two sites, and display the shortest (with resepect to simiiarity weights) path between them. The path can be indicated by a series of sites, but you are encouraged to also graphically display links not taken for each site along the path/
