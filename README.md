@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-This repository will contain the three projects completed as part of a data structures and algorithms course.
+This repository contains the three projects completed as part of a data structures and algorithms course.
 
 # Assignment 1 Specification:
 * Create a similarity-based website recommendation system based on Wikipedia pages.
